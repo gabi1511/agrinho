@@ -3,7 +3,7 @@
 }
 header{display: flex;
     align-items: center;
-    padding: 12;
+    padding: 12px;
 justify-content: space-around;
 background-color: rgb(105, 63, 10);
 color: bisque;
