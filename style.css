@@ -26,10 +26,10 @@ a{
 .lista{
     display: none;
     position: absolute;
-    top: 100;
+    top: 100%;
     background-color: bisque;
-    width: 100;
-    padding: 20 0;
+    width: 100%;
+    padding: 20% 0;
     text-align: center;
 }
 
