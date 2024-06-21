@@ -4,22 +4,25 @@
 header{display: flex;
     align-items: center;
     padding: 12px;
-justify-content: space-around;
-background-color: rgb(105, 63, 10);
-color: bisque;
-position: relative;
-
+    justify-content: space-around;
+    background-color: rgb(105, 63, 10);
+    color: bisque;
+    position: relative;
 }
+
 ul li{
     list-style: none;
 }
+
 .texto{
     color: black;
 }
+
 a{
     color: rgb(99, 72, 72);
     text-decoration: none;
 }
+
 .lista{
     display: none;
     position: absolute;
@@ -33,6 +36,12 @@ a{
 .caixa:checked .lista{
     display: block;
 }
+
+
+#menu{
+display: none;
+}
+
 .lista-item{
     padding: 12 0;
 }
