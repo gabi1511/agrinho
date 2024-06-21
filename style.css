@@ -7,5 +7,15 @@ header{display: flex;
 justify-content: space-around;
 background-color: rgb(105, 63, 10);
 color: bisque;
+position: relative;
 
+}
+ul li{
+    list-style: none;
+}
+.texto{
+    color: black;
+}
+a{
+    color: aqua;
 }
