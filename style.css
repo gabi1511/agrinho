@@ -1,9 +1,9 @@
-{
+*{
     margin: 0;
 }
 header{display: flex;
     align-items: center;
-    padding: 12px;
+    padding: 12;
 justify-content: space-around;
 background-color: rgb(105, 63, 10);
 color: bisque;
@@ -17,15 +17,22 @@ ul li{
     color: black;
 }
 a{
-    color: rgb(0, 0, 0);
+    color: rgb(99, 72, 72);
     text-decoration: none;
 }
 .lista{
     display: none;
     position: absolute;
-    top: 100%;
+    top: 100;
     background-color: bisque;
-    width: 100%;
-    padding: 20px 0;
+    width: 100;
+    padding: 20 0;
     text-align: center;
+}
+
+.caixa:checked .lista{
+    display: block;
+}
+.lista-item{
+    padding: 12 0;
 }
