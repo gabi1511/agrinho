@@ -4,7 +4,7 @@ header{
     align-items: center;
     padding: 12px;
     justify-content: space-around;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(243, 234, 114);
     color: rgb(255, 255, 255);
     position: relative;
     
@@ -46,7 +46,7 @@ display: block;
 }
 
 footer {
-	background-color: rgb(255, 255, 255);
+	background-color: rgb(78, 36, 2);
 	color: #fff;
     
 }
