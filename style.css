@@ -14,12 +14,6 @@ header{
 
 body{
     display: flex;
-    align-items: center;
-    padding: 12px;
-    justify-content: space-around;
-    background-color: rgb(49, 2, 2);
-    color: rgb(255, 255, 255);
-    position: relative;
 }
 
 ul li{
