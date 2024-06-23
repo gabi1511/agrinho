@@ -5,7 +5,7 @@ header{
     padding: 12px;
     justify-content: space-around;
     background-color: rgb(238, 231, 130);
-    color: rgb(224, 38, 38);
+    color: rgb(0, 0, 0);
     position: relative;
     
 }
@@ -15,7 +15,7 @@ ul li{
 }
 
 .texto{
-    color: rgb(46, 148, 37);
+    color: rgb(255, 254, 254);
 }
 
 a{
@@ -31,7 +31,7 @@ a{
     text-align: center;
 }
 
-
+ 
 .caixa:checked ~ .lista{
 display: block;
 }
@@ -47,6 +47,6 @@ display: block;
 
 footer {
 	background-color: rgb(78, 36, 2);
-	color: #b630d1;
+	color: #ffffff;
     
 } 
