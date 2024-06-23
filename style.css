@@ -4,8 +4,8 @@ header{
     align-items: center;
     padding: 12px;
     justify-content: space-around;
-    background-color: rgb(243, 234, 114);
-    color: rgb(255, 255, 255);
+    background-color: rgb(238, 231, 130);
+    color: rgb(224, 38, 38);
     position: relative;
     
 }
@@ -15,11 +15,11 @@ ul li{
 }
 
 .texto{
-    color: white;
+    color: rgb(46, 148, 37);
 }
 
 a{
-    color: white;
+    color: rgb(23, 39, 184);
     text-decoration: none;
 }
 
@@ -47,6 +47,6 @@ display: block;
 
 footer {
 	background-color: rgb(78, 36, 2);
-	color: #fff;
+	color: #b630d1;
     
-}
+} 
