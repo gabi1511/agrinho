@@ -6,8 +6,8 @@ header{
     align-items: center;
     padding: 12px;
     justify-content: space-around;
-    background-color: black;
-    color: white;
+    background-color: rgb(49, 2, 2);
+    color: bisque;
     position: relative;
 }
 
