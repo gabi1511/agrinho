@@ -15,7 +15,7 @@ section{
     display: flex;
     align-items: center;
     background-color: black;
-    color: rgb(61, 11, 243);
+    color: rgb(255, 255, 255);
     margin: 10px 0;
     padding: 10px 20px;
 }
@@ -34,7 +34,7 @@ header{
     padding: 12px;
     justify-content: space-around;
     background-color: black;
-    color: rgb(236, 130, 9);
+    color: rgb(255, 255, 255);
     position: relative;
 }
 
@@ -47,7 +47,7 @@ list-style: none;
 }
 
 a{
-    color: rgb(235, 16, 16);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
