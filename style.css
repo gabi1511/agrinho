@@ -14,7 +14,7 @@ header{
 section{
     display: flex;
     align-items: center;
-    background-color: black;
+    background-color: rgb(117, 68, 28);
     color: rgb(255, 255, 255);
     margin: 10px 0;
     padding: 10px 20px;
@@ -33,7 +33,7 @@ header{
     align-items: center;
     padding: 12px;
     justify-content: space-around;
-    background-color: black;
+    background-color: rgb(117, 68, 28);
     color: rgb(255, 255, 255);
     position: relative;
 }
@@ -76,7 +76,7 @@ div{
 }
 
 footer {
-	background-color: #000000;
+	background-color: rgb(117, 68, 28);
 	color: #fff;
 	padding: 20px;
 	text-align: center;
