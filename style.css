@@ -70,15 +70,4 @@ a{
     padding: 12px 0;
 }
 
-@media screen and (min-width: 1024px) {
-.lista{
-right: 8%;
-width: 14%;
-padding: 20px;
-text-align: start;
-}
-.lista-item:hover{
-    background-color: rgb(119, 51, 51);
-}
-}
-    
+
